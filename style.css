@@ -1,0 +1,20 @@
+.post-content {
+    display:flex;
+    bottom:0;
+    left:auto 0;
+    right:auto 0;
+    justify-content:center;
+    position: absolute;
+    color:darkgray;
+}
+
+.thumbnail{
+    display:flex;
+    position:relative;
+    justify-content:center;
+
+}
+
+body {
+    background: #ccffcc
+}
