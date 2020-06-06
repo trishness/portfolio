@@ -3,7 +3,7 @@
     bottom:0;
     left:auto 0;
     right:auto 0;
-    justify-content:center;
+    align-self:end;
     position: absolute;
     color:darkgray;
 }
@@ -16,7 +16,11 @@
 }
 
 body {
-    background: #ccffcc
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSS3GWgYHJ22cBB2gh64H_PjL7hc5SL8V4wcbcId-kHBONDNdO&usqp=CAU);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
 }
 
 h1 {
@@ -51,5 +55,9 @@ h3 {
 
 button {
     font-family: 'Lato', sans-serif;
-    font-weight: bolder;
+    font-weight: bold;
+}
+
+#aboutme {
+    align-content: center;
 }
