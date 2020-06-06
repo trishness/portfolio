@@ -3,7 +3,7 @@
     bottom:0;
     left:auto 0;
     right:auto 0;
-    align-self:end;
+    align-self:end!important;
     position: absolute;
     color:darkgray;
 }
@@ -45,12 +45,12 @@ p {
 }
 
 label {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Lato', sans-serif;
     font-weight: bold;
 }
 
 h3 {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Lato', sans-serif;
 }
 
 button {
