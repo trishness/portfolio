@@ -1,18 +1,21 @@
 .post-content {
     display:flex;
-    bottom:0;
-    left:auto 0;
-    right:auto 0;
-    align-self:end!important;
-    position: absolute;
-    color:darkgray;
+    background: none repeat scroll 0 0 #FFffff;
+    opacity: 0.5;
+    margin: 0 auto;
+    margin-top: -54px;
+    justify-content:center;
+    position: relative;
+}
+
+.wrapper {
+    text-align:center;
 }
 
 .thumbnail{
     display:flex;
     position:relative;
     justify-content:center;
-
 }
 
 body {
@@ -56,10 +59,6 @@ h3 {
 button {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
-}
-
-#aboutme {
-    align-content: center;
 }
 
 .navbar.transparent.navbar-inverse .navbar-inner {
