@@ -63,4 +63,9 @@ button {
     display:flex;
     position:relative;
     justify-content:center;
+    width: 100% \9;
+}
+
+.padding {
+    padding-right: 5rem;
 }
