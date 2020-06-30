@@ -11,6 +11,7 @@ h1 {
     letter-spacing: .03em;
     font-size: 60pt;
     word-spacing: 0.1em;
+    color: #ffffe6 !important;
 }
 
 h2 {
@@ -68,4 +69,8 @@ button {
 
 .portfolio {
     font-family: 'Lato', sans-serif;
+}
+
+.section {
+    background-color: #ffffe6 !important;
 }
